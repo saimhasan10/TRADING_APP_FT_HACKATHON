@@ -1,0 +1,6 @@
+{
+  "name": "MacroBex",
+  "description": "Safe simulated trading platform and administrative operations portal with wallet accounting, duplicate-event protection, stale-market reliability, and AI incident reconstruction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
